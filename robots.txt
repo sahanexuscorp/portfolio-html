@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahanexuscorp.github.io/portfolio-html/sitemap.xml
